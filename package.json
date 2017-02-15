@@ -1,0 +1,11 @@
+{
+  "name": "go-locate",
+  "version": "1.0.0",
+  "description": "Uses ip-api.com to locate IP",
+  "main": "locate.go",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jairo Caro-Accino Viciana",
+  "license": "MIT"
+}
